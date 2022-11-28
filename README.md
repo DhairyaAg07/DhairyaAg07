@@ -1,4 +1,4 @@
-![logo](https://github.com/DhairyaAg07/DhairyaAgarwal10000/blob/main/GITHUB%20banner.png)
+![logo](https://github.com/DhairyaAg07/DhairyaAg07/blob/main/GITHUB%20banner.png)
 <h1 align="center">Hi 👋, I'm Dhairya Agarwal</h1>
 <h3 align="center">A passionate Game developer and app developer from India</h3>
 
