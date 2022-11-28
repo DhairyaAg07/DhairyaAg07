@@ -28,5 +28,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhairyaag07&show_icons=true&locale=en&layout=compact" alt="dhairyaag07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhairyaag07&show_icons=true&locale=en" alt="dhairyaag07" /></p>
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=DhairyaAg07&theme=redical">
+</p> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhairyaag07&" alt="dhairyaag07" /></p>
