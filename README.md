@@ -26,6 +26,13 @@
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DhairyaAg07&theme=radical">
 </p>
+
+
+ 
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhairyaag07theme=radical&show_icons=true&locale=en&layout=compact" alt="dhairyaag07" />
+</a>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhairyaag07&show_icons=true&locale=en" alt="dhairyaag07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhairyaag07&" alt="dhairyaag07" /></p>
