@@ -23,15 +23,13 @@
 <p align = "left">
   <img  src = "https://github-readme-stats.vercel.app/api?username=DhairyaAg07&show_icons=true&theme=radical&line_height=27">
 </p>
-<p align = "left">
+<!-- <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DhairyaAg07&theme=radical">
 </p>
-
+ -->
 
  
- <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhairyaag07theme=radical&show_icons=true&locale=en&layout=compact" alt="dhairyaag07" />
-</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyaag07&layout=compact&hide=html" alt="abuanwar072" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhairyaag07&show_icons=true&locale=en" alt="dhairyaag07" /></p>
 
